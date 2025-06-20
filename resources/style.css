@@ -31,3 +31,20 @@ a {
 section {
     margin-bottom:80px;
 }
+
+.container {
+    margin: auto;
+    width: 100%;
+    max-width: 1240px;
+    height: auto;
+    max-height: 800px;
+    border: solid red 1px;
+}
+
+.content {
+   margin: auto;
+    width: 100%;
+    max-width: 1240px;
+    height: auto;
+    max-height: 800px;
+}
