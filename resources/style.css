@@ -2,8 +2,10 @@ body {
     background-color: black;
 }
 
-h1, h2, p {
+h1, h2, p, a{
     font-family: Verdana, sans-serif;
+    font-weight: Normal;
+    text-align: center;
 }
 
 h1 {
@@ -19,4 +21,9 @@ h2 {
 p {
     font-size: 21px;
     color: grey;
+}
+
+a {
+    font-size: 16px;
+    color: aqua;
 }
