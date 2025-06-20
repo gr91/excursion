@@ -1,3 +1,22 @@
+body {
+    background-color: black;
+}
+
 h1 h2 p {
     font-family: Verdana, Sans serif;
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+}
+
+h2 {
+    font-size: 40px;
+    color: white;
+}
+
+p {
+    font-size: 21px;
+    color: grey;
 }
